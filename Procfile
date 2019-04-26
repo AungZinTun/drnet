@@ -1,1 +1,1 @@
-web: gunicorn DRNET.wsgi
+web: gunicorn DrNet.wsgi
