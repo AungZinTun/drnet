@@ -42,7 +42,7 @@ decorator==4.3.0
 defusedxml==0.5.0
 distributed==1.23.1
 dj-database-url==0.5.0
-Django==2.1
+Django==2.2.13
 django-accounting==0.2.10
 django-appconf==1.0.2
 django-bootstrap3==4.11.0
